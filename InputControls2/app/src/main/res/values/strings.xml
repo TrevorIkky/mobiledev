@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InputControls</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="agree_to_terms_and_conditions">Agree to terms and conditions</string>
+    <string name="register_U">REGISTER</string>
+</resources>
